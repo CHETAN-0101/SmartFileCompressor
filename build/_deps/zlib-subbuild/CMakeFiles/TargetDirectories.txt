@@ -1,0 +1,3 @@
+F:/Project/COMPRESSOR/SmartFileCompressor/build/_deps/zlib-subbuild/CMakeFiles/zlib-populate.dir
+F:/Project/COMPRESSOR/SmartFileCompressor/build/_deps/zlib-subbuild/CMakeFiles/edit_cache.dir
+F:/Project/COMPRESSOR/SmartFileCompressor/build/_deps/zlib-subbuild/CMakeFiles/rebuild_cache.dir

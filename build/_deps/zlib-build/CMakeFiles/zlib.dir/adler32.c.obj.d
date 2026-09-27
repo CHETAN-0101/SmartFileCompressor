@@ -1,0 +1,35 @@
+_deps/zlib-build/CMakeFiles/zlib.dir/adler32.c.obj: \
+ F:\Project\COMPRESSOR\SmartFileCompressor\build\_deps\zlib-src\adler32.c \
+ F:\Project\COMPRESSOR\SmartFileCompressor\build\_deps\zlib-src\zutil.h \
+ F:\Project\COMPRESSOR\SmartFileCompressor\build\_deps\zlib-src\zlib.h \
+ F:/Project/COMPRESSOR/SmartFileCompressor/build/_deps/zlib-build/zconf.h \
+ C:/mingw32/lib/gcc/i686-w64-mingw32/16.1.0/include/stddef.h \
+ C:/mingw32/i686-w64-mingw32/include/stddef.h \
+ C:/mingw32/i686-w64-mingw32/include/crtdefs.h \
+ C:/mingw32/i686-w64-mingw32/include/corecrt.h \
+ C:/mingw32/i686-w64-mingw32/include/_mingw.h \
+ C:/mingw32/i686-w64-mingw32/include/_mingw_mac.h \
+ C:/mingw32/i686-w64-mingw32/include/_mingw_secapi.h \
+ C:/mingw32/i686-w64-mingw32/include/vadefs.h \
+ C:/mingw32/lib/gcc/i686-w64-mingw32/16.1.0/include/limits.h \
+ C:/mingw32/lib/gcc/i686-w64-mingw32/16.1.0/include/syslimits.h \
+ C:/mingw32/i686-w64-mingw32/include/limits.h \
+ C:/mingw32/i686-w64-mingw32/include/sys/types.h \
+ C:/mingw32/i686-w64-mingw32/include/_mingw_off_t.h \
+ C:/mingw32/lib/gcc/i686-w64-mingw32/16.1.0/include/stdarg.h \
+ C:/mingw32/i686-w64-mingw32/include/stdarg.h \
+ C:/mingw32/i686-w64-mingw32/include/_mingw_stdarg.h \
+ C:/mingw32/i686-w64-mingw32/include/unistd.h \
+ C:/mingw32/i686-w64-mingw32/include/io.h \
+ C:/mingw32/i686-w64-mingw32/include/string.h \
+ C:/mingw32/i686-w64-mingw32/include/sec_api/string_s.h \
+ C:/mingw32/i686-w64-mingw32/include/process.h \
+ C:/mingw32/i686-w64-mingw32/include/corecrt_startup.h \
+ C:/mingw32/i686-w64-mingw32/include/getopt.h \
+ C:/mingw32/i686-w64-mingw32/include/pthread_unistd.h \
+ C:/mingw32/i686-w64-mingw32/include/stdlib.h \
+ C:/mingw32/i686-w64-mingw32/include/corecrt_wstdlib.h \
+ C:/mingw32/i686-w64-mingw32/include/sec_api/stdlib_s.h \
+ C:/mingw32/i686-w64-mingw32/include/malloc.h \
+ C:/mingw32/lib/gcc/i686-w64-mingw32/16.1.0/include/mm_malloc.h \
+ C:/mingw32/i686-w64-mingw32/include/errno.h
